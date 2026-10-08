@@ -16,7 +16,15 @@ body {
 }
 
 .box {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
     width: 200px;
     height: 200px;
     background: rgba(9, 215, 136, 0.86);
+}
+
+.md {
+    background: rgba(177, 168, 7, 0.86);
 }
