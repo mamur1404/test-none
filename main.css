@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+
+body {
+    background: #333333a8;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 231px;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background: rgba(9, 215, 136, 0.86);
+}
